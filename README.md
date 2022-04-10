@@ -1,2 +1,2 @@
-# WEB502_LAB_M4_W2_D3
-WEB502_LAB_M4_W2_D3_simplekitchen
+# WEB502_LAB_M3_W4_SimpleKitchen_App
+WEB502_LAB_M3_W4_SimpleKitchen_App
